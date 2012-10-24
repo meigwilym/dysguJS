@@ -1,6 +1,6 @@
 // gwers 04.2
 // Arrays
-// gweneud mwy gyda array
+// gwneud mwy gyda array
 
 var dude = new Array('Dude', 
 					 'Duder', 
@@ -19,6 +19,7 @@ dude2 = ['Dude',
 
 
 print(dude2);
+
 // */
 
 // length yn property o'r 'dude' array object
@@ -31,7 +32,7 @@ print(dude.length);
 // pop() i gael un off y diwedd
 //print(dude.pop());
 
-// hyd yr array wedi mynd lawr 2
+// hyd yr array wedi mynd lawr o 2
 //print(dude.length);
 
 // push() i ychwanegu eitem arall ar y diwedd
