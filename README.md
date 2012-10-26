@@ -1,9 +1,9 @@
 Dysgu Javascript
-=======
+================
 
-Dyma gyfres o wersi syml ar sylfaeni Javascript. 
+Dyma gyfres o wersi syml ar sylfaeni Javascript, yn arwain i adeiladu app syml. 
 
-Mae'r gwersi wedi'u rhifo mewn trefn. 
+Mae'r 9 wers gyntaf yn canolbwyntio ar Javascript, gyda'r 10ed yn cyflwyno'r app.
 
 Defnyddir http://eloquentjavascript.net/paper.html ar gyfer profi'r côd. 
 
@@ -12,6 +12,11 @@ Os wyt ti'n defnyddio Chrome, mae hefyd posib i ddefnyddio'r Developer Tools. Pw
 A fel thema i'r gwaith, defnyddir un o ffilmiau gorau'r Brodyr Cohen - The Big Lebowski - ar gyfer ein engreifftiau. Mae [trailer](http://www.youtube.com/watch?v=cd-go0oBF4Y) ar gael i'r rhai anffodus sydd heb weld y ffilm. Dwi hefyd yn taflu rhai ffilmiau eraill i mewn yma ac acw.
 
 Os ti angen help, mae croeso i ti gysylltu â mi yma, neu ar [twitter](http://twitter.com/meigwilym). 
+
+Y Gwersi
+--------
+
+Mae'r gwersi o fewn y ffolderi uchod. Bydd esboniad o fewn y README.md, a'r cod o fewn y ffeiliau Javascript (sy'n gorffen â .js). 
 
 Fformatio
 ---------
